@@ -16,13 +16,3 @@ We have a few new homework and projects completed so The protfolio has been upda
 # Contact
 <img src="assets/images/Screenshot-contact.jpg" alt="Contact">
 
-=======
-# About Me
-https://user-images.githubusercontent.com/73494903/102184798-4a124200-3e6d-11eb-9d00-9c7bcd4f2a9c.png
-
-# Portfolio
-https://user-images.githubusercontent.com/73494903/102184890-6d3cf180-3e6d-11eb-9752-a9ca3489ccd1.png
- 
-# Contact
-https://user-images.githubusercontent.com/73494903/102184951-8645a280-3e6d-11eb-9c00-ffa7d0c99985.png
->>>>>>> ecfb384adbcc9e30fb54275d4089863aefd2054e
