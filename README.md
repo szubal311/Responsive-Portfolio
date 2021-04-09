@@ -10,7 +10,7 @@ We have a few new homework and projects completed so The protfolio has been upda
 <img src="assets/images/Screenshot-about.jpg" alt="About Me">
 
 ## Portfolio Screenshot
-<img src="assets/images/Screenshot-portfrolio.jpg" alt="Portfolio">
+<img src="assets/images/updatedPortfolio.jpg" alt="Portfolio">
  
 ## Contact Screenshot
 <img src="assets/images/Screenshot-contact.jpg" alt="Contact">
